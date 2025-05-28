@@ -1,4 +1,4 @@
-# jp国会国立图书馆PDF合并工具
+# jp国立国会图书馆PDF合并工具
 本项目基于 [soushou1120](https://github.com/soushou1120/NDL-onlinePDFMerger) 的开源脚本修改，增加了以下功能：
 - ✅ 说明书汉化
 - ✅ 提供极简中文GUI
